@@ -8,7 +8,7 @@ Tämä sovellus ei tallenna tai kerää käyttäjän tietoja. Emme kerää tai t
 
 # Anonyymit analytiikat
 
-Tätä sovellusta voidaan käyttää anonyymeihin analysointitarkoituksiin. Anonyymi analytiikka auttavat meitä ymmärtämään sovellus vakaudesta ja mahdollisista virhetilanteista, jotta voimme parantaa käyttökokemusta. Huomaa, että tämä toiminto on oletusarvoisesti pois päältä.
+Tätä sovellusta voidaan käyttää anonyymeihin analysointitarkoituksiin. Anonyymi analytiikka auttaa meitä ymmärtämään sovellus vakaudesta ja mahdollisista virhetilanteista, jotta voimme parantaa käyttökokemusta. Huomaa, että tämä toiminto on oletusarvoisesti pois päältä.
 
 # Evästeet
 
@@ -24,5 +24,4 @@ Emme kerää tietoisesti henkilökohtaisia tietoja alle 13-vuotiaista lapsista.
 
 # Muutokset tietosuojakäytäntöön
 
-Pidätämme oikeuden päivittää tätä tietosuojakäytäntöä tarpeen mukaan. Suosittelemme tarkistamaan tämän sivun säännöllisesti mahdollisten päivitysten osalta. Ilmoitamme sinulle tärkeistä muutoksista lähettämällä ilmoitu
-ksen sovelluksen kautta tai vaihtoehtoisesti päivittämällä tietosuojakäytäntö tällä sivustolla.
+Pidätämme oikeuden päivittää tätä tietosuojakäytäntöä tarpeen mukaan.
