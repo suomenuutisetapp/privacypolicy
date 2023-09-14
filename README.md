@@ -1,6 +1,6 @@
 # Tietosuojakäytäntö
 
-Tämä tietosuojakäytäntö selittää, miten tämä sovellus kerää, käyttää ja säilyttää henkilökohtaisia tietoja. Käyttämällä tätä sovellusta hyväksyt tämän tietosuojakäytännön ehdot.
+Tämä tietosuojakäytäntö selittää, miten Suomen Uutiset App -sovellus kerää, käyttää ja säilyttää henkilökohtaisia tietoja. Käyttämällä tätä sovellusta hyväksyt tämän tietosuojakäytännön ehdot.
 
 # Henkilötietojen kerääminen
 
